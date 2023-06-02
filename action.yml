@@ -1,5 +1,8 @@
 name: 'Trigger webhook'
 description: 'Used to send POST HTTP requests to a webhook'
+branding:
+  icon: 'arrow-up'
+  color: 'green'
 inputs:
   url:
     description: 'URL to send the request to'
